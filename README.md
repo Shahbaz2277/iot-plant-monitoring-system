@@ -2,10 +2,10 @@
 
 An IoT-based plant monitoring project that uses an ESP32, DHT11 temperature and humidity sensor, and ESP32-CAM to monitor environmental conditions and view plants remotely over a local Wi-Fi network.
 
-## 📸 Project Gallery
+📸 Project Gallery
 
 <p align="center">
-  <img src="https://github.com/Shahbaz2277/iot-plant-monitoring-system/raw/main/Images/PlantMonitoring.png" alt="Complete IoT-Based Plant Monitoring System with ESP32, DHT11, and ESP32-CAM" width="800"/>
+  <img src="Images/PlantMonitoring.jpg" alt="Complete IoT-Based Plant Monitoring System with ESP32, DHT11, and ESP32-CAM" width="800"/>
 </p>
 
 <p align="center">
